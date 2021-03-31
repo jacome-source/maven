@@ -1,0 +1,6 @@
+com\jacome\store\bo\ProductBOImpl.class
+com\jacome\store\App.class
+com\jacome\store\bo\ProductBO.class
+com\jacome\store\dao\ProductDAOImpl.class
+com\jacome\store\dao\ProductDAO.class
+com\jacome\store\dto\Product.class
